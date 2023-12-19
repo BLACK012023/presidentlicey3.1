@@ -258,4 +258,10 @@ h1 {
     .why {
         padding: 10px;
     }
+    #icons {
+        margin: 0;
+    }
+    .navbar-brand  {
+    margin: 10px !important;
+    }
 }
